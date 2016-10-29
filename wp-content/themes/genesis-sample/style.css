@@ -1152,6 +1152,7 @@ img.alignright,
 	text-decoration: none;
 	display: block;
 	padding: 32px 20px;
+	font-family:'Montserrat';
 }
 
 .genesis-nav-menu a:hover,
@@ -1161,6 +1162,7 @@ img.alignright,
 .genesis-nav-menu .sub-menu .current-menu-item > a:focus  {
 	color: #c3251d;
 	text-decoration: underline;
+	font-family:'Montserrat';
 }
 
 .genesis-nav-menu .sub-menu {
