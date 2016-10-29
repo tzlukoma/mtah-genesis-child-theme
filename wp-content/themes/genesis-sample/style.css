@@ -72,8 +72,8 @@
 
 /* # Google Fonts to Include
 ---------------------------------------------------------------------------------------------------- */
-@import url('https://fonts.googleapis.com/css?family=Cabin');
-@import url('https://fonts.googleapis.com/css?family=Alegreya');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Domine');
 
 /* # HTML5 Reset
 ---------------------------------------------------------------------------------------------------- */
@@ -160,7 +160,7 @@ body > div {
 body {
 	background-color: #eee;
 	color: #333;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Domine', sans-serif;
 	font-size: 20px;
 	font-size: 2rem;
 	-webkit-font-smoothing: antialiased;
@@ -256,7 +256,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Cabin', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
 	line-height: 1.2;
 	margin: 0 0 10px;
@@ -304,8 +304,8 @@ h2 {
 
 
 p {
-	font-family: 'Alegreya';
-	font-size: 1.50em; /* 14px/16=0.875em */
+	font-family: 'Domine';
+	font-size: 1.0em; /* 14px/16=0.875em */
 }
 
 /* ## Objects
