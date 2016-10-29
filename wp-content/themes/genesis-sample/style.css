@@ -70,6 +70,10 @@
 - Print Styles
 */
 
+/* # Google Fonts to Include
+---------------------------------------------------------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
 
 /* # HTML5 Reset
 ---------------------------------------------------------------------------------------------------- */
@@ -252,7 +256,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Cabin', sans-serif;
 	font-weight: 600;
 	line-height: 1.2;
 	margin: 0 0 10px;
@@ -286,6 +290,22 @@ h5 {
 h6 {
 	font-size: 16px;
 	font-size: 1.6rem;
+}
+
+/* ## Typography sizing
+--------------------------------------------- */
+h1 {
+	font-size: 2.5em; /* 40px/16=2.5em */
+}
+
+h2 {
+	font-size: 1.875em; /* 30px/16=1.875em */
+}
+
+
+p {
+	font-family: 'Alegreya';
+	font-size: 1.50em; /* 14px/16=0.875em */
 }
 
 /* ## Objects
